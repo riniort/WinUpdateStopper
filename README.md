@@ -53,4 +53,4 @@ You can convert this batch script to an `.exe` for easier sharing:
 ---
 
 ## License
-MIT License. See `LICENSE` file.
+Creative Commons Zero (CC0 1.0 Universal)
