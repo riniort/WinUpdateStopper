@@ -1,7 +1,7 @@
 # WinUpdateStopper
 
 **WinUpdateStopper** is a lightweight batch script that allows you to **turn Windows Update ON/OFF** on Windows 11/10.  
-It works by enabling or disabling the `wuauserv` service (Method 3).
+It works by enabling or disabling the `wuauserv` service.
 
 > ⚠️ Use responsibly: Disabling Windows Update means you won’t get security patches. Re-enable it when you want to update.
 
